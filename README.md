@@ -5,3 +5,4 @@
 [lab 05](https://github.com/KyathamSaiHarshith/2203A52233/blob/main/Lab05.ipynb)
 [lab 06](https://github.com/KyathamSaiHarshith/2203A52233/blob/main/Lab06.ipynb)
 [lab 07](https://github.com/KyathamSaiHarshith/2203A52233/blob/main/LAB07.ipynb)
+[lab 09](AIML_LAB-09.ipynb)
