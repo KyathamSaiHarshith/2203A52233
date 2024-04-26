@@ -7,3 +7,4 @@
 [lab 07](https://github.com/KyathamSaiHarshith/2203A52233/blob/main/LAB07.ipynb)
 [lab 08](AIML_LAB-08.ipynb)
 [lab 09](AIML_LAB-09.ipynb)
+[lab 10](Lab10-KMeans.ipynb)
